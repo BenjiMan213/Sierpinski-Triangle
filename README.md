@@ -1,5 +1,6 @@
 # Sierpinsky-Triangle
 Generating and visualizing a famous fractal called the Sierpinsky Triangle using pygame.
+
 The Sierpinsky Triangle is a fractal that can be represented in the overall shape of an equilateral triangle. The area of this triangle sums to 0.
 That is because there are an infinite number of "holes" in this triangle.
 Imagine a triangle having 4 sub triangles inside it, with the center triangle's base being flipped relative to the others. The triangle is formed
