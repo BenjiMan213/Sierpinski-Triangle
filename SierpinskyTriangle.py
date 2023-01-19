@@ -7,7 +7,7 @@ pygame.init()
 fps = 120
 frames = pygame.time.Clock()
 
-screen_size = (1000,500)
+screen_size = (400,500)
 disp = pygame.display.set_mode(screen_size)
 
 white = (255, 255, 255)
